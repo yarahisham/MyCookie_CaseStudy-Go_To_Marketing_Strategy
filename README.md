@@ -14,8 +14,8 @@ Prepare a Go-To-Makert-Strategy showing all the point required to kick off your 
   - SMART objective.
   - Customer segmentation and target audience.
   - Differentiation.
-  - WHere is MyCookie sold?
-  - Makreting channeks.
+  - Where is MyCookie sold?
+  - Makreting channels.
   - Customer journey channels.
  
 <p align="center">
