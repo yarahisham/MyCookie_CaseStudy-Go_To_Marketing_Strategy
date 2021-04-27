@@ -1,4 +1,3 @@
-# MyCookie_CaseStudy-Go_To_Marketing_Strategy
 ## Knolwdge Officer [Product Management Track]: Budiness Fundamentals -> _User Interview_
 You are an excellent pastry chef with a great specific experience in making cake pops and cookies with unique and customized themes for different occasions. You decided to start you own business MyCookie, to make use of your talent by selling your product and prove yourself in the market.
 
