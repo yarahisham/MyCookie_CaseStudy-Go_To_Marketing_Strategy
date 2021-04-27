@@ -20,12 +20,12 @@ Prepare a Go-To-Makert-Strategy showing all the point required to kick off your 
   - Customer journey channels.
  
 <p align="center">
-<img src="https://github.com/yarahisham/MyCookie_CaseStudy-Go_To_Marketing_Strategy/blob/main/Image/Screen%20Shot%202021-04-27%20at%207.28.08%20PM.jpg" alt="alt text" width="700" height="400" >
+<img src="https://github.com/yarahisham/MyCookie_CaseStudy-Go_To_Marketing_Strategy/blob/main/Image/Screen%20Shot%202021-04-27%20at%207.28.30%20PM.jpg" alt="alt text" width="700" height="350" >
 </p>
 
 ## Knowledge Officer Robric
 <p align="center">
-<img src="https://github.com/yarahisham/MyCookie_CaseStudy-Go_To_Marketing_Strategy/blob/main/Image/Screen%20Shot%202021-04-27%20at%207.28.30%20PM.jpg" alt="alt text" width="700" height="350" >
+<img src="https://github.com/yarahisham/MyCookie_CaseStudy-Go_To_Marketing_Strategy/blob/main/Image/Screen%20Shot%202021-04-27%20at%207.29.26%20PM.jpg" alt="alt text" width="700" height="350" >
 </p>
 
 <p align="center">
