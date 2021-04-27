@@ -1,4 +1,4 @@
-## Knolwdge Officer [Product Management Track]: Budiness Fundamentals -> _User Interview_
+## Knolwdge Officer [Product Management Track]: Budiness Fundamentals -> _Go To Marketing Strategy_
 You are an excellent pastry chef with a great specific experience in making cake pops and cookies with unique and customized themes for different occasions. You decided to start you own business MyCookie, to make use of your talent by selling your product and prove yourself in the market.
 
 Prepare a Go-To-Makert-Strategy showing all the point required to kick off your business, from validating your market customer to your value proposition and marketing plan.
