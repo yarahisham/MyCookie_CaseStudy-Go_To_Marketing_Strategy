@@ -10,19 +10,15 @@ Prepare a Go-To-Makert-Strategy showing all the point required to kick off your 
 
 ## Description
 - The Document includes:
-  - Step 1: Prepare for the interview session:
-   - Set a clear goal.
-   - Select interview method.
-   - Recruiting participants.
-  - Step 2: Prepare a discussion guide:
-    - User intro questions.
-    - Product specific questions.
-    - Create a team.
-    - Record the session.
-    - Result of user 1.
-    - Result of users 2.
-    - Conclusion.
-
+  - Who is MyCookie?
+  - Value proposition.
+  - SMART objective.
+  - Customer segmentation and target audience.
+  - Differentiation.
+  - WHere is MyCookie sold?
+  - Makreting channeks.
+  - Customer journey channels.
+ 
 <p align="center">
 <img src="https://github.com/yarahisham/MyCookie_CaseStudy-Go_To_Marketing_Strategy/blob/main/Image/Screen%20Shot%202021-04-27%20at%207.28.08%20PM.jpg" alt="alt text" width="700" height="400" >
 </p>
